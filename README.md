@@ -19,3 +19,9 @@ Vill du lära dig grunderna i programmering och skapa dina egna projekt?
 I samband med Internationella kvinnodagen bjuder vi in till en workshop
 bara för kvinnor. Inga förkunskaper krävs – vi välkomnar alla från 7 år
 och uppåt, oavsett om du är nybörjare eller bara nyfiken på att lära dig mer.
+
+## Notes
+
+- there were 0 registrations, yet 1 spontaneous visitor :-)
+- we intend to try again in half a year
+- we'll set the age group to 15-25, as to not give the idea it is for children
