@@ -1,27 +1,48 @@
-# workshop_20250306
+# Female-only programming workshops
 
 Programming workshop for women.
 
-- date: Thursday 6 March 2025 (which is two days before International Women's Day)
-- time: 18:00-20:00, with us preparing at 17:00
-- place: Studion is nice, but they are flexible
-- audience: women only
-- age: 7 years and older
-- costs: none
-- maximum amount of guests: none
-- needed: laptops from USB with Processing installed and some booklets printed, a drink when building up at 17:00
+
+- Age: 15-25
+- Location: Stadsbiblioteket
+- Date: Thursday 2025-09-12
+- Time: 18:00-20:00
+- Intended audience: females only
+- Costs: none
+- Maximum amount of guests: none
 
 ## Publicity text
 
-Programmeringsworkshop för kvinnor - Internationella kvinnodagen
+=== "🇸🇪"
 
-Vill du lära dig grunderna i programmering och skapa dina egna projekt?
-I samband med Internationella kvinnodagen bjuder vi in till en workshop
-bara för kvinnor. Inga förkunskaper krävs – vi välkomnar alla från 7 år
-och uppåt, oavsett om du är nybörjare eller bara nyfiken på att lära dig mer.
+    Programmeringsworkshop för kvinnor
 
-## Notes
+    Vill du lära dig grunderna i programmering och skapa dina egna projekt?
+    Vi bjuder in till en workshop bara för kvinnor.
+    Inga förkunskaper krävs – vi välkomnar alla från
+    15-25 år, oavsett om du är nybörjare eller bara nyfiken på att lära dig mer.
 
-- there were 0 registrations, yet 1 spontaneous visitor :-)
-- we intend to try again in half a year
-- we'll set the age group to 15-25, as to not give the idea it is for children
+=== "🇬🇧"
+
+    Programming Workshop for Women
+
+    Do you want to learn the basics of programming and create your own projects?
+    We invite you to a workshop just for women.
+    No prior knowledge is required - we welcome everyone from
+    15-25 years old, regardless of whether you are a beginner
+    or just curious to learn more.
+
+## Our preparation
+
+We need to do ourselves:
+
+- bring Processing booklets
+- prepare 1 hour in advance
+
+## Needed from Stadsbibliotet
+
+We need from Stadsbibliotket:
+
+- laptops with Processing installed
+- prepare 1 hour in advance
+
