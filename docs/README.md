@@ -39,9 +39,9 @@ We need to do ourselves:
 - bring Processing booklets
 - prepare 1 hour in advance
 
-## Needed from Stadsbibliotet
+## Needed from Stadsbiblioteket
 
-We need from Stadsbibliotket:
+We need from Stadsbiblioteket:
 
 - laptops with Processing installed
 - prepare 1 hour in advance
