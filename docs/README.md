@@ -2,10 +2,9 @@
 
 Programming workshop for women.
 
-
 - Age: 15-25
 - Location: Stadsbiblioteket
-- Date: Friday September 12th 2025 
+- Date: Friday September 12th 2025
 - Time: 18:00-20:00
 - Intended audience: females only
 - Costs: none
@@ -45,4 +44,3 @@ We need from Stadsbiblioteket:
 
 - laptops with Processing installed
 - prepare 1 hour in advance
-
